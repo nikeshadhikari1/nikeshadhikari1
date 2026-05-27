@@ -35,35 +35,29 @@ const nikesh = {
 <div align="center">
 
 <a href="https://github.com/nikeshadhikari1">
-  <img src="https://img.shields.io/badge/Repos-View%20All-6c63ff?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
-</a>
-<a href="https://github.com/nikeshadhikari1?tab=repositories&sort=stargazers">
-  <img src="https://img.shields.io/badge/Followers-6c63ff?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/nikeshadhikari1?label=Followers&style=for-the-badge&color=6c63ff&logo=github" alt="Followers"/>
 </a>
 <a href="https://github.com/nikeshadhikari1">
-  <img src="https://img.shields.io/github/stars/nikeshadhikari1?color=6c63ff&style=for-the-badge&logo=github" alt="Stars"/>
+  <img src="https://img.shields.io/github/stars/nikeshadhikari1?label=Stars&style=for-the-badge&color=6c63ff&logo=github" alt="Stars"/>
+</a>
+<a href="https://github.com/nikeshadhikari1">
+  <img src="https://img.shields.io/github/last-commit/nikeshadhikari1?label=Last+Commit&style=for-the-badge&color=6c63ff&logo=github" alt="Last Commit"/>
 </a>
 
 </div>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> What I Work With
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> Achievements
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/🏆-First_Repo-6c63ff?style=for-the-badge&logo=github&logoColor=white" alt="First Repo"/>
+<img src="https://img.shields.io/badge/⭐-Star_Collector-6c63ff?style=for-the-badge&logo=github&logoColor=white" alt="Star Collector"/>
+<img src="https://img.shields.io/badge/🎯-Code_Ninja-6c63ff?style=for-the-badge&logo=github&logoColor=white" alt="Code Ninja"/>
+<img src="https://img.shields.io/badge/🚀-Deploy_Master-6c63ff?style=for-the-badge&logo=github&logoColor=white" alt="Deploy Master"/>
+<img src="https://img.shields.io/badge/💡-Innovator-6c63ff?style=for-the-badge&logo=github&logoColor=white" alt="Innovator"/>
+<img src="https://img.shields.io/badge/🛠️-Bug_Hunter-6c63ff?style=for-the-badge&logo=github&logoColor=white" alt="Bug Hunter"/>
 
 </div>
 
