@@ -21,7 +21,7 @@
 const nikesh = {
     location: "Nepal",
     role: "Web & Mobile Developer",
-    education: "Bachelor's in Computer Science",
+    education: "Bachelor of Information and Communication Technology Education",
     currentFocus: ["Flutter", "JavaScript", "Django"],
     askMeAbout: ["Web Dev", "Mobile Apps", "UI Design"],
     funFact: "I debug with console.log() and I'm not ashamed"
@@ -30,34 +30,40 @@ const nikesh = {
 
 <br/>
 
-## <img src="https://media.giphy.com/media/KzJkzjga2b3a2/giphy.gif" width="28"> GitHub Stats
+## <img src="https://media.giphy.com/media/KzJkzjga2b3a2/giphy.gif" width="28"> My Projects
 
 <div align="center">
 
-<a href="https://github.com/nikeshadhikari1">
-  <img src="https://img.shields.io/github/followers/nikeshadhikari1?label=Followers&style=for-the-badge&color=6c63ff&logo=github" alt="Followers"/>
+<a href="https://nikesh41.com.np/admin-dashboard">
+  <img src="https://img.shields.io/badge/🖥️-Admin_Dashboard-6c63ff?style=for-the-badge" alt="Admin Dashboard"/>
 </a>
-<a href="https://github.com/nikeshadhikari1">
-  <img src="https://img.shields.io/github/stars/nikeshadhikari1?label=Stars&style=for-the-badge&color=6c63ff&logo=github" alt="Stars"/>
+<a href="https://nikesh41.com.np/quiz">
+  <img src="https://img.shields.io/badge/🧠-Quiz_App-6c63ff?style=for-the-badge" alt="Quiz App"/>
 </a>
-<a href="https://github.com/nikeshadhikari1">
-  <img src="https://img.shields.io/github/last-commit/nikeshadhikari1?label=Last+Commit&style=for-the-badge&color=6c63ff&logo=github" alt="Last Commit"/>
+<a href="https://nikesh41.com.np/calculator">
+  <img src="https://img.shields.io/badge/🔢-Calculator-6c63ff?style=for-the-badge" alt="Calculator"/>
+</a>
+<a href="https://nikesh41.com.np/tictactoe">
+  <img src="https://img.shields.io/badge/❌-Tic_Tac_Toe-6c63ff?style=for-the-badge" alt="Tic Tac Toe"/>
+</a>
+<a href="https://nikesh41.com.np/snake">
+  <img src="https://img.shields.io/badge/🐍-Snake_Game-6c63ff?style=for-the-badge" alt="Snake Game"/>
 </a>
 
 </div>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> Achievements
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> Fun Facts
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🏆-First_Repo-6c63ff?style=for-the-badge&logo=github&logoColor=white" alt="First Repo"/>
-<img src="https://img.shields.io/badge/⭐-Star_Collector-6c63ff?style=for-the-badge&logo=github&logoColor=white" alt="Star Collector"/>
-<img src="https://img.shields.io/badge/🎯-Code_Ninja-6c63ff?style=for-the-badge&logo=github&logoColor=white" alt="Code Ninja"/>
-<img src="https://img.shields.io/badge/🚀-Deploy_Master-6c63ff?style=for-the-badge&logo=github&logoColor=white" alt="Deploy Master"/>
-<img src="https://img.shields.io/badge/💡-Innovator-6c63ff?style=for-the-badge&logo=github&logoColor=white" alt="Innovator"/>
-<img src="https://img.shields.io/badge/🛠️-Bug_Hunter-6c63ff?style=for-the-badge&logo=github&logoColor=white" alt="Bug Hunter"/>
+<img src="https://img.shields.io/badge/📍-From_Nepal-6c63ff?style=for-the-badge" alt="Nepal"/>
+<img src="https://img.shields.io/badge/🎓-CS_Student-00d4aa?style=for-the-badge" alt="CS Student"/>
+<img src="https://img.shields.io/badge/💻-Web_Developer-ff6b6b?style=for-the-badge" alt="Web Developer"/>
+<img src="https://img.shields.io/badge/📱-Mobile_Developer-ffa726?style=for-the-badge" alt="Mobile Developer"/>
+<img src="https://img.shields.io/badge/🎨-UI_Designer-8b5cf6?style=for-the-badge" alt="UI Designer"/>
+<img src="https://img.shields.io/badge/☕-Powered_by_Coffee-92400e?style=for-the-badge" alt="Coffee"/>
 
 </div>
 
