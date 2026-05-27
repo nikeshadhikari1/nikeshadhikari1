@@ -4,12 +4,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Nikesh%20Adhikari&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20|%20Mobile%20Developer%20|%20UI%20Designer&descSize=16&descAlignY=55" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Full+Stack+Web+Developer;Mobile+App+Developer+%7C+Flutter;Always+learning+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=Full+Stack+Web+Developer;Mobile+App+Developer+%7C+Flutter;Always+learning+something+new)](https://git.io/typing-svg)
 
----
+<br/>
 
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=nikesh41&label=Profile+Views&color=6c63ff&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=nikeshadhikari1&label=Profile+Views&color=6c63ff&style=for-the-badge" alt="profile views"/>
 
 </div>
 
@@ -68,12 +68,12 @@ const nikesh = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nikesh41&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6c63ff&icon_color=00d4aa&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikesh41&theme=tokyonight&bg_color=0d1117&hide_border=true&ring=6c63ff&fire=00d4aa&currStreakLabel=6c63ff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nikeshadhikari1&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6c63ff&icon_color=00d4aa&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikeshadhikari1&theme=tokyonight&bg_color=0d1117&hide_border=true&ring=6c63ff&fire=00d4aa&currStreakLabel=6c63ff" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikesh41&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6c63ff&text_color=c9d1d9" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikeshadhikari1&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6c63ff&text_color=c9d1d9" width="40%"/>
 
 </div>
 
@@ -83,7 +83,7 @@ const nikesh = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nikesh41&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nikeshadhikari1&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
 
 </div>
 
@@ -93,7 +93,7 @@ const nikesh = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikesh41&bg_color=0d1117&color=6c63ff&line=00d4aa&point=ffffff&area=true&area_color=6c63ff&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikeshadhikari1&bg_color=0d1117&color=6c63ff&line=00d4aa&point=ffffff&area=true&area_color=6c63ff&hide_border=true" width="95%"/>
 
 </div>
 
@@ -105,7 +105,7 @@ const nikesh = {
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikeshadhikari41@gmail.com)
 [![Website](https://img.shields.io/badge/Website-6c63ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nikesh41.com.np)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikesh41)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikeshadhikari1)
 
 </div>
 
