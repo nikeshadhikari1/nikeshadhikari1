@@ -69,16 +69,16 @@ const nikesh = {
 <div align="center">
 
 <a href="https://github.com/nikeshadhikari1">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikeshadhikari1&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikeshadhikari1&show_icons=true" width="48%"/>
 </a>
 <a href="https://github.com/nikeshadhikari1">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikeshadhikari1&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikeshadhikari1" width="48%"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/nikeshadhikari1">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikeshadhikari1&layout=compact&theme=radical&hide_border=true" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikeshadhikari1&layout=compact" width="40%"/>
 </a>
 
 </div>
@@ -90,7 +90,7 @@ const nikesh = {
 <div align="center">
 
 <a href="https://github.com/nikeshadhikari1">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikeshadhikari1&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nikeshadhikari1" width="100%"/>
 </a>
 
 </div>
@@ -102,7 +102,7 @@ const nikesh = {
 <div align="center">
 
 <a href="https://github.com/nikeshadhikari1">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikeshadhikari1&theme=radical&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikeshadhikari1" width="95%"/>
 </a>
 
 </div>
