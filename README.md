@@ -63,16 +63,6 @@ const nikesh = {
 
 <br/>
 
-## <img src="https://media.giphy.com/media/WUlplbcMpOlNKW4Bpg/giphy.gif" width="28"> Contribution Snake
-
-<div align="center">
-
-![snake](https://github-snake.vercel.app/?user=nikeshadhikari1&color=6c63ff&background=0d1117&length=15)
-
-</div>
-
-<br/>
-
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Let's Connect
 
 <div align="center">
