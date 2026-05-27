@@ -68,12 +68,18 @@ const nikesh = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nikeshadhikari1&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6c63ff&icon_color=00d4aa&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikeshadhikari1&theme=tokyonight&bg_color=0d1117&hide_border=true&ring=6c63ff&fire=00d4aa&currStreakLabel=6c63ff" width="48%"/>
+<a href="https://github.com/nikeshadhikari1">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikeshadhikari1&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+</a>
+<a href="https://github.com/nikeshadhikari1">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikeshadhikari1&theme=radical&hide_border=true" width="48%"/>
+</a>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikeshadhikari1&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6c63ff&text_color=c9d1d9" width="40%"/>
+<a href="https://github.com/nikeshadhikari1">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikeshadhikari1&layout=compact&theme=radical&hide_border=true" width="40%"/>
+</a>
 
 </div>
 
@@ -83,7 +89,9 @@ const nikesh = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nikeshadhikari1&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
+<a href="https://github.com/nikeshadhikari1">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikeshadhikari1&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
+</a>
 
 </div>
 
@@ -93,7 +101,9 @@ const nikesh = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikeshadhikari1&bg_color=0d1117&color=6c63ff&line=00d4aa&point=ffffff&area=true&area_color=6c63ff&hide_border=true" width="95%"/>
+<a href="https://github.com/nikeshadhikari1">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikeshadhikari1&theme=radical&hide_border=true" width="95%"/>
+</a>
 
 </div>
 
