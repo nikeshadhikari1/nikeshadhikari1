@@ -69,6 +69,18 @@ const nikesh = {
 
 <br/>
 
+## <img src="https://media.giphy.com/media/WUlplbcMpOlNKW4Bpg/giphy.gif" width="28"> Contributions
+
+<div align="center">
+
+<a href="https://github.com/nikeshadhikari1">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikeshadhikari1&bg_color=0d1117&color=6c63ff&line=6c63ff&point=ffffff&area=true&area_color=6c63ff&hide_border=true" width="95%"/>
+</a>
+
+</div>
+
+<br/>
+
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Let's Connect
 
 <div align="center">
