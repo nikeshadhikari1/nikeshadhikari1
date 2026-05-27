@@ -24,43 +24,9 @@ const nikesh = {
     education: "Bachelor's in Computer Science",
     currentFocus: ["Flutter", "JavaScript", "Django"],
     askMeAbout: ["Web Dev", "Mobile Apps", "UI Design"],
-    funFact: "I debug with console.log() and I'm not ashamed 😄"
+    funFact: "I debug with console.log() and I'm not ashamed"
 };
 ```
-
-<br/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
-
-<div align="center">
-
-#### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-#### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-#### Programming
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-#### Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-#### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
 
 <br/>
 
@@ -69,53 +35,53 @@ const nikesh = {
 <div align="center">
 
 <a href="https://github.com/nikeshadhikari1">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikeshadhikari1&show_icons=true" width="48%"/>
+  <img src="https://img.shields.io/badge/Repos-View%20All-6c63ff?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+</a>
+<a href="https://github.com/nikeshadhikari1?tab=repositories&sort=stargazers">
+  <img src="https://img.shields.io/badge/Followers-6c63ff?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
 </a>
 <a href="https://github.com/nikeshadhikari1">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikeshadhikari1" width="48%"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/nikeshadhikari1">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikeshadhikari1&layout=compact" width="40%"/>
+  <img src="https://img.shields.io/github/stars/nikeshadhikari1?color=6c63ff&style=for-the-badge&logo=github" alt="Stars"/>
 </a>
 
 </div>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> GitHub Trophies
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> What I Work With
 
 <div align="center">
 
-<a href="https://github.com/nikeshadhikari1">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikeshadhikari1" width="100%"/>
-</a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 </div>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/WUlplbcMpOlNKW4Bpg/giphy.gif" width="28"> Contribution Graph
+## <img src="https://media.giphy.com/media/WUlplbcMpOlNKW4Bpg/giphy.gif" width="28"> Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/nikeshadhikari1">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikeshadhikari1" width="95%"/>
+<a href="mailto:nikeshadhikari41@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-</div>
-
-<br/>
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikeshadhikari41@gmail.com)
-[![Website](https://img.shields.io/badge/Website-6c63ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nikesh41.com.np)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikeshadhikari1)
+<a href="https://nikesh41.com.np">
+  <img src="https://img.shields.io/badge/Website-6c63ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+</a>
+<a href="https://github.com/nikeshadhikari1">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </div>
 
